@@ -6,3 +6,5 @@
 #2 ![Alt text](images/Screenshot1-image-size-fixed.png)
 
 #3![Alt text](images/Screenshot2-report.png)
+
+#4![Alt text](images/Screenshot3-report.png)
